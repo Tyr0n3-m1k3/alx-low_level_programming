@@ -1,0 +1,2 @@
+THIS IS THE 0x18.C-Dynamic Libraries ALX.
+BY TYRONE MIKE.
